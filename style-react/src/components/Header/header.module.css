@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 9px 120px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.headerLeft {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.fastHomeIcon {
+  display: flex;
+  align-items: center;
+}
+
+.spanFast {
+  padding: 0px 0px 1px 8px;
+  font-weight: 700;
+}
+
+.spanHome {
+  font-weight: 400;
+}
+
+.span {
+  font-size: 18px;
+}
+
+.headerRight {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}

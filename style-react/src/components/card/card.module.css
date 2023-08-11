@@ -1,0 +1,51 @@
+.card {
+  padding: 10px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.cardImg {
+  width: 265px;
+  height: 165px;
+}
+
+.cardPrice {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.cardSale {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.cardCity {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 10px;
+  font-weight: 400;
+}
+
+.cardDate {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 10px;
+  font-weight: 400;
+}
+
+.cardBottom {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+sup {
+  font-size: 8px;
+  font-weight: 700;
+}
+
+.cardSpan {
+  font-size: 12px;
+  font-weight: 700;
+}

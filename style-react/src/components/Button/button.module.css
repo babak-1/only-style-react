@@ -1,0 +1,40 @@
+.redBtn {
+  background-color: #e02828;
+  color: #ffffff;
+  text-align: center;
+  width: 122px;
+  padding: 5px 0px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.whiteBtn {
+  width: 70px;
+  height: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  text-align: center;
+  font-size: 13px;
+  padding-top: 4px;
+  font-weight: 600;
+}
+
+.cardSecondRed {
+  background-color: #e02828;
+  color: #ffffff;
+  text-align: center;
+  width: 145px;
+  padding: 7px 0px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.whiteRedBtn {
+  border: 1px solid #e02828;
+  border-radius: 5px;
+  color: #e02828;
+  width: 100px;
+  height: 25px;
+  text-align: center;
+  font-size: 14px;
+  padding-top: 3px;
+}
